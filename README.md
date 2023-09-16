@@ -3,4 +3,4 @@
 
 - NACIS-CAT
     - 図書全体の100分の一データ(12000件)
-    - - 総合目録データベースオープンデータ: https://www.nii.ac.jp/CAT-ILL/about/infocat/od/ (2022-04-25時点のもの) より
+    - 総合目録データベースオープンデータ: https://www.nii.ac.jp/CAT-ILL/about/infocat/od/ (2022-04-25時点のもの) より
