@@ -1,4 +1,4 @@
-# startDatacleansing4Librarian
+# biginDatacleansing4Librarian
 大学図書館研究会第54全国大会第6分科会における「データクレンジングのはじめ方」研修資料
 https://www.daitoken.com/research/annual_conference/2023/section.html#pm6
 
