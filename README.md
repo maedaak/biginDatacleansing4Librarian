@@ -1,4 +1,4 @@
-# startDatacleansing
+# startDatacleansing4Librarian
 大学図書館問題研究会2023年度全国大会におけるデータクレンジング研修資料
 
 - NACIS-CAT
