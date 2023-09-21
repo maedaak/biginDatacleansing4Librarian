@@ -7,3 +7,6 @@ https://www.daitoken.com/research/annual_conference/2023/section.html#pm6
 - NACIS-CAT
     - 図書全体の100分の一データ(12000件)
     - 総合目録データベースオープンデータ: https://www.nii.ac.jp/CAT-ILL/about/infocat/od/ (2022-04-25時点のもの) より
+
+Webページ(GitHyb Pages)に表示切替
+　https://maedaak.github.io/biginDatacleansing4Librarian/
